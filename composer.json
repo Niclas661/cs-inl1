@@ -1,0 +1,13 @@
+{
+    "name": "niclas661/php-inl1",
+    "description": "Inlämningsuppgift 1",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "Niclas Svensson",
+            "email": "niclas.sv@gmail.com"
+        }
+    ]
+}
