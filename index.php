@@ -1,16 +1,8 @@
 <html>
   <head>
     <title>Inl 1</title>
-    <style>
-      .left {
-        float: left;
-        width: 30%;
-      }
-      .right {
-        float: right;
-        width: 70%;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
   </head>
   <body>
     <?php

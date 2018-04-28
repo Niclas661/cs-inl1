@@ -1,0 +1,21 @@
+.left {
+    float: left;
+    width: 30%;
+  }
+  .right {
+    float: right;
+    width: 70%;
+  }
+  body {
+      color: white;
+      background-color: #333;
+  }
+  h1 {
+      color: #62ffff;
+  }
+  a {
+      color: white;
+  }
+  a:visited {
+      color: #62ffff;
+  }
